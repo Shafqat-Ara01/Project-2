@@ -10,7 +10,7 @@ Azure Haven is a **modern, fully responsive hotel website** built using **Bootst
 ✔️ **Bootstrap 5 Framework** – Faster, lightweight, and mobile-first  
 ✔️ **Navigation Bar & Hero Section** – Clean and intuitive design  
 ✔️ **Room Listings** – Showcasing hotel rooms  
-✔️ ** Animations** – Enhancing visual appeal  
+✔️ **Animations** – Enhancing visual appeal  
 ✔️ **Contact Form & Footer Section** – Engaging and interactive elements  
 
 ##  Technologies Used  
